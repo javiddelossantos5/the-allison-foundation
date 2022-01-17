@@ -388,3 +388,12 @@ footer {
 }
 
 /* Footer Responsive End */
+
+/* Edits on Smaller Screens */
+
+@media (max-width: 800px) {
+  .goal-text {
+    width: 80%;
+    margin: auto;
+  }
+}
